@@ -8,6 +8,8 @@
 
 Built for *Pixels to Products — Cloudinary AI Hackathon 2026*, Track 3.
 
+Hackathon team repository for **ShelfReady** — [hackindia-team:pixels-to-products-cloudinary-ai-hackathon-2026:shelfready]
+
 [![Cutroom landing page — click to open the live app](docs/screenshots/landing.jpg)](https://cutroom-1fvh.onrender.com)
 
 <table>
