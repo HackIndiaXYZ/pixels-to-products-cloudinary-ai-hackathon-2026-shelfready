@@ -4,6 +4,8 @@
 
 **▶ Live: [cutroom-1fvh.onrender.com](https://cutroom-1fvh.onrender.com)** — uploads need a passcode; finished results links are open to anyone.
 
+**🎬 Demo video: [watch the walkthrough](https://drive.google.com/file/d/1tv7-1WVf9D9W5_lE9AVRIn49yLIrChz9/view?usp=sharing)**
+
 Built for *Pixels to Products — Cloudinary AI Hackathon 2026*, Track 3.
 
 [![Cutroom landing page — click to open the live app](docs/screenshots/landing.jpg)](https://cutroom-1fvh.onrender.com)
